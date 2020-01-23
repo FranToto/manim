@@ -1,0 +1,4 @@
+file '/Users/francoisthoral/animation/manim/media/videos/common_scenes/480p15/partial_movie_files/OpeningQuote/00000.mp4'
+file '/Users/francoisthoral/animation/manim/media/videos/common_scenes/480p15/partial_movie_files/OpeningQuote/00001.mp4'
+file '/Users/francoisthoral/animation/manim/media/videos/common_scenes/480p15/partial_movie_files/OpeningQuote/00002.mp4'
+file '/Users/francoisthoral/animation/manim/media/videos/common_scenes/480p15/partial_movie_files/OpeningQuote/00003.mp4'

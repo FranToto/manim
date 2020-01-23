@@ -1,0 +1,2 @@
+file '/Users/francoisthoral/animation/manim/media/videos/6a_plots_2D/480p15/partial_movie_files/PlotGraph/00000.mp4'
+file '/Users/francoisthoral/animation/manim/media/videos/6a_plots_2D/480p15/partial_movie_files/PlotGraph/00001.mp4'

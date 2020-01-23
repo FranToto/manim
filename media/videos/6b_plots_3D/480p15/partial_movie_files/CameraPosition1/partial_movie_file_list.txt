@@ -1,0 +1,2 @@
+file '/Users/francoisthoral/animation/manim/media/videos/6b_plots_3D/480p15/partial_movie_files/CameraPosition1/00000.mp4'
+file '/Users/francoisthoral/animation/manim/media/videos/6b_plots_3D/480p15/partial_movie_files/CameraPosition1/00001.mp4'

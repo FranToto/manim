@@ -1,0 +1,84 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2511
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgray\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh7300\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Manim for Mac - Ressources :\
+\
+https://www.eulertour.com  \'97> Online Editor for Manim\
+Manim Tuto on YT \'97> https://www.youtube.com/watch?v=ENMyFGmq5OA&list=PL2B6OzTsMUrwo4hA3BBfS7ZR34K361Z8F\
+GitHub TheoremOfBethoven\
+GitHub malhotra5 \'97> Very good manim Tutorial and remainder of functions/options\
+\'97\'97\'97\
+\
+TIPS\
+///Functions///\
+- object=TexMobject(\'91\'92 \'91\'92)\
+- for -> To use to save coding lines\
+- Transform() vs ReplacementTransform() : difference explained in tuto 4.1 \'97> Use one suits the best\
+- Transform and copy useful for animate fragmented text/equations\
+- ApplyMethod() : to apply changes in properties of an object (size and colour for instance) inside self.play\
+OR (And more Useful)\
+- CreateTarget and MoveToTarget() in self.play, see 4_transform.py. \
+\
+- Problems with Transform() see Tuto 4.2.Ways to fix it\
+	- Transform(Array1D[:],Array2D)\
+- CONFIG class/method : to change parameters in config such as coloraturas background, \'85 (in graph_scene.py. Advantage of using this dictionary is you can generate news scenes form others already made. Can omit the Construct method.\
+\
+///Latex/// \
+- Online Editor to get code https://www.codecogs.com/latex/eqneditor.php\
+- Format to be changed from Latex to Python, 2 techniques :\
+	- \\\\ instead of single \\\
+	- add Write an \'ab\'a0r\'a0\'bb before the quote\
+- The \\\\frac command can\'92t be fragmented so the command \\\\over is used\
+- To Write formulas or texts of more than 1 line, triple quotes are used instead of one\
+- Fragment : Separate elements of texte to decompose with \'91\'92 \'91\'92. Could be problem of memory allocation \
+\
+///Rendering/// Add - plus letters end of \'ab\'a0python3 -m manim Script.py MyScene\'a0\'bb\
+- ps : to display image not video.\
+- pl : as video of low quality\
+-o output_name : to change the name of video \
+\'97\'97\
+\
+//// CODE EDITING\
+vim \
+i - to insert\
+:w - save\
+:q - quit\
+ESC to escape inserting\
+: syntax on - to highlight text\
+\
+Visual Studio Code\
+code myfirst_scenes.py - to open VSC editor\
+\'97\'97\'97\
+\
+//// INSTALLATION ////\
+https://github.com/3b1b/manim\
+https://talkingphysics.wordpress.com/2019/01/08/getting-started-animating-with-manim-and-python-3-7/\
+http://bhowell4.com/manic-install-tutorial-for-mac/ \
+		\'97> Good to follow,\
+		\'97> Before Step 8 : only needed to type command \'ab\'a0
+\f1\fs22 \cf2 \CocoaLigature0 brew install ffmpeg\'a0\'bb 
+\f0 \
+		\'97>
+\fs24  Step 9 : command to type to test \'ab\'a0
+\f1\fs22 python3 -m manim example_scenes.py SquareToCircle -pl 
+\f0\fs24 \'bb instead of \'ab\'a0
+\f1\fs22 python3 extract_scene.py example_scenes.py SquareToCircle -pl
+\f0\fs24 \'bb\
+		\'97> Didn\'92t change code (step 9/10)\
+		\'97> Step 11 \'ab\'a0
+\f1\fs22 python3 -m manim example_scenes.py WriteStuff -pl 
+\f0\fs24 \'bb instead of \'ab\'a0
+\f1\fs22 python3 extract_scene.py example_scenes.py WriteStuff -pl
+\f0\fs24 \'bb\
+\
+/!\\ Before executing python scripts, type cmd \'ab\'a0source venv/bin/activate\'a0\'bb to be in virtual environment.\
+\'97> Nice one : 
+\f1\fs22 python3 -m manim example_scenes.py OpeningManimExample -pl
+\f0\fs24 \
+\'97> Try to change code in pythons files/other older scripts (cf example_scenes.py)\
+\cf0 \CocoaLigature1 \
+}

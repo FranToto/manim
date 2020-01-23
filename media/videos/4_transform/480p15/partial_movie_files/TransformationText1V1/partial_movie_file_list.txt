@@ -1,0 +1,4 @@
+file '/Users/francoisthoral/animation/manim/media/videos/4_transform/480p15/partial_movie_files/TransformationText1V1/00000.mp4'
+file '/Users/francoisthoral/animation/manim/media/videos/4_transform/480p15/partial_movie_files/TransformationText1V1/00001.mp4'
+file '/Users/francoisthoral/animation/manim/media/videos/4_transform/480p15/partial_movie_files/TransformationText1V1/00002.mp4'
+file '/Users/francoisthoral/animation/manim/media/videos/4_transform/480p15/partial_movie_files/TransformationText1V1/00003.mp4'

@@ -1,0 +1,8 @@
+file '/Users/francoisthoral/animation/manim/media/videos/4_transform/480p15/partial_movie_files/CopyTwoFormulas2Color/00000.mp4'
+file '/Users/francoisthoral/animation/manim/media/videos/4_transform/480p15/partial_movie_files/CopyTwoFormulas2Color/00001.mp4'
+file '/Users/francoisthoral/animation/manim/media/videos/4_transform/480p15/partial_movie_files/CopyTwoFormulas2Color/00002.mp4'
+file '/Users/francoisthoral/animation/manim/media/videos/4_transform/480p15/partial_movie_files/CopyTwoFormulas2Color/00003.mp4'
+file '/Users/francoisthoral/animation/manim/media/videos/4_transform/480p15/partial_movie_files/CopyTwoFormulas2Color/00004.mp4'
+file '/Users/francoisthoral/animation/manim/media/videos/4_transform/480p15/partial_movie_files/CopyTwoFormulas2Color/00005.mp4'
+file '/Users/francoisthoral/animation/manim/media/videos/4_transform/480p15/partial_movie_files/CopyTwoFormulas2Color/00006.mp4'
+file '/Users/francoisthoral/animation/manim/media/videos/4_transform/480p15/partial_movie_files/CopyTwoFormulas2Color/00007.mp4'
